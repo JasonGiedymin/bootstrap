@@ -6,7 +6,7 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
- * Date: Tue Aug 23 12:07:52 EDT 2011
+ * Date: Tue Aug 23 15:50:14 EDT 2011
  */
 /* Preboot.less
  * Variables and mixins to pre-ignite any new web development project
@@ -49,18 +49,8 @@ h4,
 h5,
 h6 {
   font-weight: bold;
-  color: #404040;
-}
-h1 small,
-h2 small,
-h3 small,
-h4 small,
-h5 small,
-h6 small {
-  color: #bfbfbf;
 }
 h6 {
-  color: #bfbfbf;
   text-transform: uppercase;
 }
 ul, ol {
@@ -77,9 +67,6 @@ ul {
 }
 ol {
   list-style: decimal;
-}
-li {
-  color: #808080;
 }
 ul.unstyled {
   list-style: none;

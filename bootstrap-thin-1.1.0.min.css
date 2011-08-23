@@ -3,13 +3,12 @@
 .center-block{display:block;margin:0 auto;}
 .container{width:940px;margin:0 auto;zoom:1;}.container:before,.container:after{display:table;content:"";}
 .container:after{clear:both;}
-h1,h2,h3,h4,h5,h6{font-weight:bold;color:#404040;}h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{color:#bfbfbf;}
-h6{color:#bfbfbf;text-transform:uppercase;}
+h1,h2,h3,h4,h5,h6{font-weight:bold;}
+h6{text-transform:uppercase;}
 ul,ol{margin:0 0;}
 ul ul,ul ol,ol ol,ol ul{margin-bottom:0;}
 ul{list-style:disc;}
 ol{list-style:decimal;}
-li{color:#808080;}
 ul.unstyled{list-style:none;margin-left:0;}
 dl{margin-bottom:18px;}dl dt,dl dd{line-height:18px;}
 dl dt{font-weight:bold;}
