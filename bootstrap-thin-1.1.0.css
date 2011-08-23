@@ -6,7 +6,7 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
- * Date: Tue Aug 23 12:00:52 EDT 2011
+ * Date: Tue Aug 23 12:07:52 EDT 2011
  */
 /* Preboot.less
  * Variables and mixins to pre-ignite any new web development project
@@ -39,6 +39,8 @@
 }
 /* Typography-thin.less
  * Headings, lists, code, and more for a versatile and durable typography system
+ * Thin: removed body and line heights for basic elements. Left colors and heights on
+ *       non basic elements such as `dl`s'.
  * ---------------------------------------------------------------------------------------- */
 h1,
 h2,
@@ -532,6 +534,7 @@ form.form-stacked .actions {
 /*
  * Tables.less
  * Tables for, you guessed it, tabular data
+ * Thin: Removed line height in table.
  * ---------------------------------------- */
 table {
   width: 100%;
@@ -542,7 +545,6 @@ table {
 }
 table th, table td {
   padding: 10px 10px 9px;
-  line-height: 13.5px;
   text-align: left;
   vertical-align: middle;
   border-bottom: 1px solid #ddd;

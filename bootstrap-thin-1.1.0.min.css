@@ -75,7 +75,7 @@ form.form-stacked .clearfix{margin-bottom:9px;}form.form-stacked .clearfix div.i
 form.form-stacked .inputs-list{margin-bottom:0;}form.form-stacked .inputs-list li{padding-top:0;}form.form-stacked .inputs-list li label{font-weight:normal;padding-top:0;}
 form.form-stacked div.error{padding-top:10px;padding-bottom:10px;padding-left:10px;margin-top:0;margin-left:-10px;}
 form.form-stacked .actions{margin-left:-20px;padding-left:20px;}
-table{width:100%;margin-bottom:18px;padding:0;border-collapse:separate;font-size:13px;}table th,table td{padding:10px 10px 9px;line-height:13.5px;text-align:left;vertical-align:middle;border-bottom:1px solid #ddd;}
+table{width:100%;margin-bottom:18px;padding:0;border-collapse:separate;font-size:13px;}table th,table td{padding:10px 10px 9px;text-align:left;vertical-align:middle;border-bottom:1px solid #ddd;}
 table th{padding-top:9px;font-weight:bold;border-bottom-width:2px;}
 .zebra-striped tbody tr:nth-child(odd) td{background-color:#f9f9f9;}
 .zebra-striped tbody tr:hover td{background-color:#f5f5f5;}
