@@ -1,13 +1,12 @@
 DATE=$(shell DATE)
 
-BOOTSTRAP = ./bootstrap-1.1.0.css
-BOOTSTRAP_MIN = ./bootstrap-1.1.0.min.css
+BOOTSTRAP = ./bootstrap-1.1.1.css
+BOOTSTRAP_MIN = ./bootstrap-1.1.1.min.css
 BOOTSTRAP_LESS = ./lib/bootstrap.less
 
 BOOTSTRAP_THIN = ./bootstrap-thin-1.1.0.css
 BOOTSTRAP_THIN_MIN = ./bootstrap-thin-1.1.0.min.css
 BOOTSTRAP_THIN_LESS = ./lib/bootstrap-thin.less
-
 
 LESS_COMPESSOR ?= `which lessc`
 WATCHR ?= `which watchr`
